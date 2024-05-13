@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Trananh123duong/F8_Nodejs_Blog.git"
+  },
+  "author": "duong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trananh123duong/F8_Nodejs_Blog/issues"
+  },
+  "homepage": "https://github.com/Trananh123duong/F8_Nodejs_Blog#readme"
+}
