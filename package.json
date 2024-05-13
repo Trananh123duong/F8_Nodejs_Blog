@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Trananh123duong/F8_Nodejs_Blog/issues"
   },
-  "homepage": "https://github.com/Trananh123duong/F8_Nodejs_Blog#readme"
+  "homepage": "https://github.com/Trananh123duong/F8_Nodejs_Blog#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
